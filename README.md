@@ -1,4 +1,4 @@
-# Projetos de Comandos Elétricos 
+# Projetos de Comandos Elétricos ⚡️💡💻
 
 Este é um repositório de projetos elétricos dedicados para discilpina de comandos e acionamentos. Nele está disponibilizado projetos para variadas aplicações. O programa utilizado para a construação é o CADe_SIMU_3.0 
 
