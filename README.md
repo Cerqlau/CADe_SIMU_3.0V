@@ -29,7 +29,7 @@ Certifique-se de executar o programa como Admininstrador para uma melhor compati
 
 4- Utilize o botão "PLAY" para iniciar a simulação;
 
-
+![Untitled](https://github.com/Cerqlau/CADe_SIMU_3.0V/assets/87389666/21c7cc2a-be4f-44f1-912b-34d9b1e6b5b4)
 
 ## 🦾 Technologia
 
